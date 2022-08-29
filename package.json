@@ -1,0 +1,28 @@
+{
+  "name": "zk-snark-example",
+  "version": "1.0.0",
+  "description": "this is an example of zk-snark ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveed949/zk-snark-example.git"
+  },
+  "keywords": [
+    "zk-snark",
+    "snark",
+    "example",
+    "demo"
+  ],
+  "author": "naveed949",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naveed949/zk-snark-example/issues"
+  },
+  "homepage": "https://github.com/naveed949/zk-snark-example#readme",
+  "dependencies": {
+    "snarkjs": "^0.4.24"
+  }
+}
