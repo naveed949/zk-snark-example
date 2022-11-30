@@ -4,7 +4,9 @@
   "description": "this is an example of zk-snark ",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "generator": "node ./src/1_generate_keys.js",
+    "prover": "node ./src/2_generate_proof.js",
+    "verifier": "node ./src/3_verify_proof.js"
   },
   "repository": {
     "type": "git",
